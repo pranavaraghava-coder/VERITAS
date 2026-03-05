@@ -5,7 +5,7 @@ import time
 # --- CONFIGURATION (MUST BE FIRST) ---
 st.set_page_config(
     page_title="Project Veritas",
-    page_icon="🧠",
+    page_icon="nivas",
     layout="wide",
     initial_sidebar_state="expanded"
 )
